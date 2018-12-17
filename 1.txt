@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print("Hello, sucker!.")
 print("sorry, bro.")
+print("232321313")
+>>>>>>> master
